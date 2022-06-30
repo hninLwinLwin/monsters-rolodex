@@ -2,7 +2,7 @@
   "name": "monster-robot",
   "version": "0.1.0",
   "private": true,
-  "hompage": "https://hninLwinLwin.github.io/monsters-rolodex",
+  "hompage": "https://hninlwinlwin.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -19,7 +19,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm build",
-    "deploy": "gh-pages -d build"
+    "script1": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
